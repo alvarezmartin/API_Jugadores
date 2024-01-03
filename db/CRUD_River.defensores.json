@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "655e260588dbed28fea154bc"
+  },
+  "nombre": "Ramiro",
+  "apellido": "Funes Mori",
+  "imagen": "http://localhost:4000/imagen/funes mori.png"
+},
+{
+  "_id": {
+    "$oid": "655e260588dbed28fea154bd"
+  },
+  "nombre": "Jonatan",
+  "apellido": "Maidana",
+  "imagen": "http://localhost:4000/imagen/maidana.png"
+},
+{
+  "_id": {
+    "$oid": "655e260588dbed28fea154be"
+  },
+  "nombre": "David",
+  "apellido": "Martínez",
+  "imagen": "http://localhost:4000/imagen/martinez.png"
+},
+{
+  "_id": {
+    "$oid": "655e260588dbed28fea154bf"
+  },
+  "nombre": "Enzo",
+  "apellido": "Díaz",
+  "imagen": "http://localhost:4000/imagen/e diaz.png"
+},
+{
+  "_id": {
+    "$oid": "655e260588dbed28fea154c0"
+  },
+  "nombre": "Leandro",
+  "apellido": "González Pirez",
+  "imagen": "http://localhost:4000/imagen/gonzalez pirez.png"
+},
+{
+  "_id": {
+    "$oid": "655e260588dbed28fea154c1"
+  },
+  "nombre": "Marcelo A.",
+  "apellido": "Herrera",
+  "imagen": "http://localhost:4000/imagen/herrera.png"
+},
+{
+  "_id": {
+    "$oid": "655e260588dbed28fea154c2"
+  },
+  "nombre": "Paulo",
+  "apellido": "Díaz",
+  "imagen": "http://localhost:4000/imagen/p diaz.png"
+},
+{
+  "_id": {
+    "$oid": "655e260588dbed28fea154c3"
+  },
+  "nombre": "Milton",
+  "apellido": "Casco",
+  "imagen": "http://localhost:4000/imagen/casco.png"
+},
+{
+  "_id": {
+    "$oid": "655e260588dbed28fea154c4"
+  },
+  "nombre": "Emanuel",
+  "apellido": "Mammana",
+  "imagen": "http://localhost:4000/imagen/mammana.png"
+}]

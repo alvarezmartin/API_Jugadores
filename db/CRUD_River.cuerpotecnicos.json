@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "655e2ab288dbed28fea154d3"
+  },
+  "nombre": "Martín",
+  "apellido": "Demichelis",
+  "imagen": "http://localhost:4000/imagen/demichelis.png"
+},
+{
+  "_id": {
+    "$oid": "655e2ab288dbed28fea154d4"
+  },
+  "nombre": "Javier",
+  "apellido": "Pinola",
+  "imagen": "http://localhost:4000/imagen/pinola.png"
+},
+{
+  "_id": {
+    "$oid": "655e2ab288dbed28fea154d5"
+  },
+  "nombre": "Germán",
+  "apellido": "Lux",
+  "imagen": "http://localhost:4000/imagen/lux.png"
+}]

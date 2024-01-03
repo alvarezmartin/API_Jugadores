@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "655e2a7088dbed28fea154ce"
+  },
+  "nombre": "Facundo",
+  "apellido": "Colidio",
+  "imagen": "http://localhost:4000/imagen/colidio.png"
+},
+{
+  "_id": {
+    "$oid": "655e2a7088dbed28fea154cf"
+  },
+  "nombre": "Matías",
+  "apellido": "Suarez",
+  "imagen": "http://localhost:4000/imagen/suarez.png"
+},
+{
+  "_id": {
+    "$oid": "655e2a7088dbed28fea154d0"
+  },
+  "nombre": "Miguel",
+  "apellido": "Borja",
+  "imagen": "http://localhost:4000/imagen/borja.png"
+},
+{
+  "_id": {
+    "$oid": "655e2a7088dbed28fea154d1"
+  },
+  "nombre": "Salomón",
+  "apellido": "Rondon",
+  "imagen": "http://localhost:4000/imagen/rondon.png"
+},
+{
+  "_id": {
+    "$oid": "655e2a7088dbed28fea154d2"
+  },
+  "nombre": "Pablo",
+  "apellido": "Solari",
+  "imagen": "http://localhost:4000/imagen/solari.png"
+}]

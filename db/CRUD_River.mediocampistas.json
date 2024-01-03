@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "655e2a0788dbed28fea154c5"
+  },
+  "nombre": "Bruno",
+  "apellido": "Zuculini",
+  "imagen": "http://localhost:4000/imagen/zuculini.png"
+},
+{
+  "_id": {
+    "$oid": "655e2a0788dbed28fea154c6"
+  },
+  "nombre": "Agustín",
+  "apellido": "Palavecino",
+  "imagen": "http://localhost:4000/imagen/palavecino.png"
+},
+{
+  "_id": {
+    "$oid": "655e2a0788dbed28fea154c7"
+  },
+  "nombre": "Ignacio",
+  "apellido": "Fernández",
+  "imagen": "http://localhost:4000/imagen/n fernandez.png"
+},
+{
+  "_id": {
+    "$oid": "655e2a0788dbed28fea154c8"
+  },
+  "nombre": "Nicolás",
+  "apellido": "de la Cruz",
+  "imagen": "http://localhost:4000/imagen/de la cruz.png"
+},
+{
+  "_id": {
+    "$oid": "655e2a0788dbed28fea154c9"
+  },
+  "nombre": "Esequiel",
+  "apellido": "Barco",
+  "imagen": "http://localhost:4000/imagen/barco.png"
+},
+{
+  "_id": {
+    "$oid": "655e2a0788dbed28fea154ca"
+  },
+  "nombre": "Matías",
+  "apellido": "Kranevitter",
+  "imagen": "http://localhost:4000/imagen/kranevitter.png"
+},
+{
+  "_id": {
+    "$oid": "655e2a0788dbed28fea154cb"
+  },
+  "nombre": "Enzo",
+  "apellido": "Pérez",
+  "imagen": "http://localhost:4000/imagen/e perez.png"
+},
+{
+  "_id": {
+    "$oid": "655e2a0788dbed28fea154cc"
+  },
+  "nombre": "Rodrigo",
+  "apellido": "Aliendro",
+  "imagen": "http://localhost:4000/imagen/aliendro.png"
+},
+{
+  "_id": {
+    "$oid": "655e2a0788dbed28fea154cd"
+  },
+  "nombre": "Santiago",
+  "apellido": "Simón",
+  "imagen": "http://localhost:4000/imagen/simon.png"
+}]
